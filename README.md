@@ -9,7 +9,7 @@ Can set passive / active modes
 Can poll addresses in passive mode
 Can turn all devices into standby
 Can turn individal device on
-Can trun individual device off (standby)
+Can turn individual device off (standby)
 
 Have not yet tried
 
