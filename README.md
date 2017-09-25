@@ -8,8 +8,8 @@ Can get topology
 Can set passive / active modes
 Can poll addresses in passive mode
 Can turn all devices into standby
-Can turn individal device on
-Can turn individual device off (standby)
+Can turn an individual device on
+Can turn an individual device off (standby)
 
 Have not yet tried
 
